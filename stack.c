@@ -59,3 +59,4 @@ void pall(Stack *s)
 	}
 }
 
+

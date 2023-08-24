@@ -13,6 +13,7 @@ int isStackFull(Stack *s);
 int isStackEmpty(Stack *s);
 void push(Stack *s, int value);
 void pall(Stack *s);
+void pint(Stack *s);
 
 #endif
 
